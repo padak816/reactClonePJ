@@ -1,0 +1,15 @@
+export { default as Header } from './Header';
+export { default as Header_login } from './Header_login';
+export { default as Main } from './Main';
+export { default as Footer } from './Footer';
+export { default as Register } from './Register';
+export { default as Register_form } from './Register_form';
+export { default as Register_result } from './Register_result';
+export { default as Login } from './Login'; 
+export { default as Infocheck } from './Infocheck';
+export { default as Boardlist } from './Boardlist';
+export { default as Boardwrite } from './Boardwrite';
+export { default as Board } from './Board';
+export { default as Cart } from './Cart';
+export { default as Item1 } from './Item1';
+export { default as Item2 } from './Item2';
